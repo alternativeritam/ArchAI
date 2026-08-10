@@ -355,3 +355,4 @@ Stop the existing process or start ArchAI with custom ports:
 ```bash
 ./scripts/start.sh --frontend-port 3001 --backend-port 8001
 ```
+![Repository Overview](ss1.jpeg)
