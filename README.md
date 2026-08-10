@@ -6,6 +6,10 @@ understand a codebase before they modify it, without building or running the
 uploaded application.
 
 ![](ss1.jpeg)
+![](ss2.jpeg)
+![](ss3.jpeg)
+![](ss4.jpeg)
+![](ss5.jpeg)
 
 ---
 
