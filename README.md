@@ -5,7 +5,7 @@ evidence-backed developer workspace. It helps developers and architects
 understand a codebase before they modify it, without building or running the
 uploaded application.
 
-!(ss1.jpeg)
+![](ss1.jpeg)
 
 ---
 
