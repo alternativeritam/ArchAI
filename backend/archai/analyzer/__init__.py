@@ -1,0 +1,2 @@
+"""Java source analysis pipeline."""
+
