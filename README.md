@@ -5,6 +5,8 @@ evidence-backed developer workspace. It helps developers and architects
 understand a codebase before they modify it, without building or running the
 uploaded application.
 
+!(ss1.jpeg)
+
 ---
 
 ## Part 1: Project overview
@@ -355,4 +357,3 @@ Stop the existing process or start ArchAI with custom ports:
 ```bash
 ./scripts/start.sh --frontend-port 3001 --backend-port 8001
 ```
-![Repository Overview](ss1.jpeg)
